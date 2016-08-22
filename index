@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="TEDxLund, Tedx, Lund, Tedx lund">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <title>Home | TEDxLund</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
+  <link rel="shortcut icon" href="favicon.png" type="image/png">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/slider/style.css">
+  <link rel="stylesheet" href="assets/css/mbr-additional.css" type="text/css">
+
+  <!-- META / OG -->
+    <meta property="og:url" content="http://tedxlund.com" />
+    <meta property="og:title" content="TEDxLund | Growing Dreams" />
+    <meta property="og:description" content="How do you go from dreams to reality, turn ideas into action and dream big? What is even a dream and how do you grow it? This year we have invited speakers to share their great ideas and how their work is growing dreams. They will inspire, fascinate and perhaps surprise you." />
+    <meta property="og:image" content="http://www.tedxlund.com/image-fb.jpg" />
+  
+</head>
+<body>
+<section class="engine"><a rel="nofollow" href="index">TEDxLund | Growing Dreams</a></section>
+<section class="mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--transparent mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-3">
+    <div class="mbr-navbar__section mbr-section">
+        <div class="mbr-section__container container">
+            <div class="mbr-navbar__container">
+                
+                <div class="mbr-navbar__hamburger mbr-hamburger text-white"><span class="mbr-hamburger__line"></span></div>
+                <div class="mbr-navbar__column mbr-navbar__menu">
+                    <nav class="mbr-navbar__menu-box mbr-navbar__menu-box--inline-right">
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="home">HOME</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="about">ABOUT TED</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="sponsors">SPONSORS</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="team">THE TEAM</a></li></ul></div>
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-inverse mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__btn btn btn-default" href="speakers">WATCH TALKS</a></li></ul></div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-slider mbr-section mbr-section--no-padding carousel slide" data-ride="carousel" data-wrap="true" data-interval="4700" id="slider-0" style="background-color: rgb(0, 0, 0);">
+    <div class="mbr-section__container">
+        <div>
+            <ol class="carousel-indicators">
+                <li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="0" class="active"></li><li data-app-prevent-settings="" data-target="#slider-0" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider-0" class="" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height active" style="background-image: url('assets/images/031350x900-129.jpg');">
+                    <div class="mbr-box__magnet mbr-box__magnet--sm-padding">
+                        <div class=" container">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    <h1 class="mbr-hero__text">TEDxLund is BACK</h1>
+                                    <p class="mbr-hero__subtext">How will you build your dreams?</p>
+                                </div>
+                                <div class="mbr-buttons btn-inverse mbr-buttons--center"><a class="mbr-buttons__btn btn btn-lg btn-danger" href="speakers">WATCH TALKS</a> <a class="mbr-buttons__btn btn btn-lg btn-default" href="about">WHAT IS TED?</a></div>
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height" style="background-image: url('assets/images/sky1822x1000-108.jpg');">
+                    <div class="mbr-box__magnet mbr-box__magnet--sm-padding">
+                        <div class=" container">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    <h1 class="mbr-hero__text">Watch the talks now!</h1>
+                                    <p class="mbr-hero__subtext">We brought together some great minds</p>
+                                </div>
+                                <div class="mbr-buttons btn-inverse mbr-buttons--center"><a class="mbr-buttons__btn btn btn-lg btn-danger" href="speakers">WATCH TALKS</a> <a class="mbr-buttons__btn btn btn-lg btn-default" href="about">WHAT IS TED?</a></div>
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center mbr-section--full-height" style="background-image: url('assets/images/011571x900-104.jpg');">
+                    <div class="mbr-box__magnet mbr-box__magnet--sm-padding">
+                        <div class=" container">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    <h1 class="mbr-hero__text">#TEDxLund15</h1>
+                                    <p class="mbr-hero__subtext">What does it mean to grow dreams?</p>
+                                </div>
+                                <div class="mbr-buttons btn-inverse mbr-buttons--center"><a class="mbr-buttons__btn btn btn-lg btn-danger" href="speakers">WATCH TALKS</a> <a class="mbr-buttons__btn btn btn-lg btn-default" href="about">WHAT IS TED?</a></div>
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="index#slider-0">
+                <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="index#slider-0">
+                <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="content-1" id="msg-box3-6" style="background-color: rgb(255, 255, 255);">
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2><span style="color: inherit; font-family: inherit; line-height: 1.5em;">TEDxLund @ Månteatern</span><br></h2>
+                <div><p>We are finally back in Lund again after three years!</p><p><br></p><p>With the theme ''Growing Dreams’' we have some amazing speakers lined up who are excited to share their ideas with you.</p><p><br></p><p>-</p><p><strong><br></strong></p><p><strong>Please note: TICKETS ARE NOW SOLD OUT</strong></p><p><strong><br></strong></p><p>Thank you to everyone who applied! If you did not get a ticket, please don't worry, all of the talks will be available to view online after the event.</p></div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-1 extended dark left mbr-parallax-background" id="msg-box4-4" style="background-image: url('assets/images/wood1166x777-149.jpg');">
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 img">
+                <img alt="" src="assets/images/banner596x308-105.jpg">
+            </div>
+
+            <div class="col-sm-6">
+                <div>
+                    <h2>#TEDxLund15<br></h2>
+                    <div><p>Please use our hashtag at the event and make sure to follow us to stay up to date with the latest info!</p></div>
+                </div>
+                
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons2-5" style="background-color: rgb(255, 255, 255);">
+    
+
+    <div class="mbr-section__container container">
+        <div class="mbr-header mbr-header--inline row">
+            <div class="col-sm-4">
+                <h3 class="mbr-header__text">FOLLOW US</h3>
+            </div>
+            <div class="mbr-social-icons mbr-social-icons--style-1 col-sm-8"><a class="mbr-social-icons__icon socicon-bg-twitter" title="Twitter" target="_blank" href="https://twitter.com/tedxlund"><i class="socicon socicon-twitter"></i></a> <a class="mbr-social-icons__icon socicon-bg-facebook" title="Facebook" target="_blank" href="https://www.facebook.com/tedxlund"><i class="socicon socicon-facebook"></i></a>  <a class="mbr-social-icons__icon socicon-bg-youtube" title="YouTube" target="_blank" href="https://www.youtube.com/watch?v=iPGxQEjEnGM&list=PLsRNoUx8w3rObeObdOTM3vXqDsr1glIG_"><i class="socicon socicon-youtube"></i></a> <a class="mbr-social-icons__icon socicon-bg-instagram" title="Instagram" target="_blank" href="https://instagram.com/tedxlund/"><i class="socicon socicon-instagram"></i></a></div>
+        </div>
+    </div>
+</section>
+
+<section class="content-1 extended dark left" id="msg-box4-7" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 img">
+                <img alt="" src="assets/images/favicon497x497-175.png">
+            </div>
+
+            <div class="col-sm-6">
+                <div>
+                    <h2>What is TEDx?</h2>
+                    <div><p>In the spirit of ideas worth spreading, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience.</p><p><br></p><p>Our event is called TEDxLund, where x = independently organized TED event. At our TEDxLund events, TEDTalks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.</p></div>
+                </div>
+                <div class="group"><a class="btn btn-lg btn-danger" href="about">TELL ME MORE</a></div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="content-2 simple col-1 col-undefined mbr-parallax-background" id="content5-8" style="background-image: url('assets/images/teamfrontpage1275x850-199.jpg');">
+    <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(0, 0, 0);"></div>
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <div class="caption">
+                        <h3>Meet the TEDxLund Team</h3>
+                        <div><p>We have come people together to inspire you</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-2 col-3" id="features1-9" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <img alt="" src="assets/images/peizhen444x444-127.jpg">
+                    <div class="caption">
+                        <div>
+                            <h3>Peizhen He</h3>
+                            <p>Organizer</p>
+                        </div>
+                        <p class="group"><a href="team" class="btn btn-default">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <img alt="" src="assets/images/kathy444x442-161.jpg">
+                    <div class="caption">
+                        <div>
+                            <h3>Kathy Wu</h3>
+                            <p>Organizer</p>
+                        </div>
+                        <p class="group"><a href="team" class="btn btn-default">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <img alt="" src="assets/images/jeremy400x400-162.jpg">
+                    <div class="caption">
+                        <div>
+                            <h3>Jeremy Boom</h3>
+                            <p>Web Designer</p>
+                        </div>
+                        <p class="group"><a href="http://jeremyboom.com" class="btn btn-default" target="_blank">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="content-1 mbr-parallax-background" id="msg-box3-10" style="background-image: url('assets/images/speakers1280x853-178.jpg');">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2>Growing Dreams</h2>
+                <div><p>How do you go from dreams to reality, turn ideas into action and dream big? What is even a dream and how do you grow it?</p><p><br></p><p>This year we have invited speakers to share their great ideas and how their work is growing dreams. They will inspire, fascinate and perhaps surprise you.</p></div>
+                <div class="group"><a class="btn btn-lg btn-danger" href="speakers">MEET YOUR SPEAKERS</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons2-16" style="background-color: rgb(255, 255, 255);">
+    
+
+    <div class="mbr-section__container container">
+        <div class="mbr-header mbr-header--inline row">
+            <div class="col-sm-4">
+                <h3 class="mbr-header__text">FOLLOW US</h3>
+            </div>
+            <div class="mbr-social-icons mbr-social-icons--style-1 col-sm-8"><a class="mbr-social-icons__icon socicon-bg-twitter" title="Twitter" target="_blank" href="https://twitter.com/tedxlund"><i class="socicon socicon-twitter"></i></a> <a class="mbr-social-icons__icon socicon-bg-facebook" title="Facebook" target="_blank" href="https://www.facebook.com/tedxlund"><i class="socicon socicon-facebook"></i></a>  <a class="mbr-social-icons__icon socicon-bg-youtube" title="YouTube" target="_blank" href="https://www.youtube.com/watch?v=iPGxQEjEnGM&list=PLsRNoUx8w3rObeObdOTM3vXqDsr1glIG_"><i class="socicon socicon-youtube"></i></a> <a class="mbr-social-icons__icon socicon-bg-instagram" title="Instagram" target="_blank" href="https://instagram.com/tedxlund/"><i class="socicon socicon-instagram"></i></a></div>
+        </div>
+    </div>
+</section>
+
+<section class="content-1 extended dark right mbr-parallax-background" id="msg-box5-12" style="background-image: url('assets/images/kidpresident1280x758-117.jpg');">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+    <div class="container">
+        <div class="row">
+            
+
+            <div class="col-sm-6">
+                <div>
+                    <h2>"It's everybody's duty to give the world a reason to dance"</h2>
+                    <div><p>We all need a little encouragement every now and then. Kid President, knowing this, has put together a video you can play each morning as you wake up or to share with your friend who needs a kick in the right direction. Take a moment and spread some encouragement.</p></div>
+                </div>
+                <div class="group"><a class="btn btn-lg btn-default" href="index#top">BACK TO THE TOP</a></div>
+            </div>
+
+            <div class="col-sm-6 img">
+                <iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/l-gQLqv9f4o?rel=0&autoplay=0&loop=0"   frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="contacts2-13" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="mbr-section__container container">
+        <div class="mbr-contacts mbr-contacts--wysiwyg row">
+            <div class="col-sm-6">
+                <figure class="mbr-figure mbr-figure--wysiwyg mbr-figure--full-width mbr-figure--no-bg">
+                    <div class="mbr-figure__map mbr-figure__map--short mbr-google-map">
+                        <p class="mbr-google-map__marker" data-coordinates="55.7066964,13.192467800000031">TEDx Lund @ Månteatern</p>
+                    </div>
+                </figure>
+            </div>
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-5 col-sm-offset-1">
+                        <p class="mbr-contacts__text"><strong>ADDRESS</strong><br>Månteatern</p><div>Bredgatan 3</div><div>222 21 Lund</div><div><br>
+<strong>CONTACT</strong><br></div><div>Email: <a href="cdn-cgi/l/email-protection.html#473322233f2b32292307202a262e2b6924282a" class="text-gray"><span class="__cf_email__" data-cfemail="463223223e2a33282206212b272f2a6825292b">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div><p></p>
+                    </div>
+                    <div class="col-sm-6"><p class="mbr-contacts__text"><strong>LINKS</strong></p><ul class="mbr-contacts__list"><li><a href="https://www.facebook.com/TEDxLund" target="_blank" class="text-gray">Like us on Facebook</a></li><li><a href="https://instagram.com/tedxlund/" target="_blank" class="text-gray">Follow us on Instagram</a></li><li><a href="https://www.facebook.com/events/1595481404049598/" target="_blank" class="text-gray">Facebook Event Page</a></li><li><a href="https://twitter.com/tedxlund" target="_blank" class="text-gray">Get updates on Twitter</a></li><li><a href="http://www.ted.com/tedx/events/16799" target="_blank" class="text-gray">Profile on TED.com</a></li></ul></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="footer1-67" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="mbr-section__container container">
+        <div class="mbr-footer mbr-footer--wysiwyg row">
+            <div class="col-sm-12">
+                <p class="mbr-footer__copyright"></p><p>This independent TEDx event is operated under <a href="https://www.ted.com/tedx/" target="_blank" class="text-gray">license from TED</a></p><p>Designed by <a href="http://jeremyboom.com/" target="_blank" class="text-gray">Jeremy Boom</a></p><p></p>
+            </div>
+        </div>
+    </div>
+</section>
+  <script src="assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/jquery-parallax/jquery.parallax.js"></script>
+  <script src="assets/js/script.js"></script>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection.html');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
